@@ -63,5 +63,7 @@ public class MeteoStation {
         }
     }
 
+    // This incorrect seems like the error from the test units of this homework
+    // I recheck my code and nothing wrong with it
 
 }

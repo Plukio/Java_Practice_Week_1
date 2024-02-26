@@ -4,11 +4,13 @@ import java.util.stream.Collectors;
 public class CollectionsTask {
 
     public static List<String> getNotNull(List<String> data) {
-        return data
-                .stream()
-//                .filter(name -> name != null) // simpler
-                .filter(Objects::nonNull) // more advanced
-                .toList();
+        List<String> nonNullData = new ArrayList<>();
+        for (String item : data) {
+            if (item != null) {
+                nonNullData.add(item);
+            }
+        }
+        return nonNullData;
     }
 
     public static List<String> getOrdered(List<String> data, boolean reversed) {
@@ -26,8 +28,7 @@ public class CollectionsTask {
     }
 
     public static Set<String> getUniqueOrdered(List<String> data, boolean reversed) {
-        List<String> notNull = getNotNull(data);
-        return new TreeSet<>(getOrdered(notNull, reversed));
+        return new LinkedHashSet<>(getOrdered(data, reversed));
     }
 
     public static Map<String, Integer> aggregate(List<String> data) {
@@ -38,12 +39,6 @@ public class CollectionsTask {
         );
     }
 
-    public static Map<String, Integer> aggregateByLetter(List<String> data) {
-        List<String> notNull = getNotNull(data);
 
-        return notNull.stream().collect(
-                Collectors.groupingBy(name -> name, Collectors.summingInt(name -> 1))
-        );
-    }
 
 }

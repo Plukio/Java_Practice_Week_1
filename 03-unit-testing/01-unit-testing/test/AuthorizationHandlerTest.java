@@ -79,4 +79,8 @@ public class AuthorizationHandlerTest {
     Assertions.assertEquals(AuthorizationHandler.Status.AUTHORIZED, authHandler.getStatus());
   }
 
+
+  // I think this incorrect code work well to point oit that the AuthorizationHandler class has an error with unAuthorize the LOCKED status and return UNAUTHORIZED status
+  // but it should not change the status when unAuthorize the LOCKED status.
+
 }
