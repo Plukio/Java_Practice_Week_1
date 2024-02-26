@@ -1,0 +1,34 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 1274
+        length: 17
+        placeholder_text: // print the text
+        initial_state:
+          length: 17
+          offset: 412
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: EArMiPGxEcesFOBpcEhsHeW7XOrQEvmcB0w0dTV1pNBgsZbpn3/GBvs7RjJvHqDooUFxyNSfAr3pqdjHf1NIQo/WbrNg2px0Vc3lCmQTt6VN6Q6g/CgQDZP+VUuKLYNlpNfnEYBKBuHb5ztOfCJcyFQnJHykNpq5OQC3BsruXr2/SrfpDTir1TXhmwvCwlnmc4Lwj2rCbmyEOmn1lIU3+SIpBgnrz0h3M6kJ15bpjRlMMSWh+0Jrj7Pk94HOOPmERzKmgbmupkF+kxeFiALxyxDFgn3TRSZVzr9f6y0OV4D8xKjzIItcLQ7zB76QHV+l6Z5GJTYKhWQb8j7gnZglvNUExG1vPPdjasoeAZN/BYZDz9pwF7Y+ma/hgHBgfFc9w/jRNazz4hlUjSKgotBos2D/pnjS1z9nXolf98079A44Yq4fVYFRmBf/e95/RLp3DTUlnOYAYJlXLQSjW48JyhSQ979OscfDJTMvn/Xzk3Q03KIsiqUIUjGjCk5DoI6n4+e5lX1ymL5mLvxfYBMN28Cu/1q1kkg98osbiAm1Z/Im2sSXFzrMGyUnRe/1eoFYYF5YbhKtHzmhdbgZ2ESFF7IC6sdubNyAWCy6EPftYDj4Ex6VR5eRgeKa5/PpGCRnnpILx/usdJl+dYEoMROhO0ghFMI6Khz3TcLm5HLN4krO39m9Dlmcbu9s10hxtPl8WnqWQyaDzC/95oio3YMdifl0nJ74SGeXj6e0soMf0dohU7T9cSx5iF2W2V9pbs6J4OzV0P/NU2qzfzZROAlbM452dq81gkBqtis0d2M0DecltdMsWt4bGCNZuMUoRmCBKrstNQsalikuqCxagsbd2Om4f2JELFY5bipcjJykl2X0xOi80y3m3mkQtySFzY0Cql+cTMF00m9uarP7C6BGiHsfWFVIp7AbhCUf9Chqv7kwdh9GawfERnygFC1F06rpRTXiXGwlWPgmANaZzDRi/GCPKeEzopiZrySGP0Z1zH6F6Q+49ZYJ8rnDBrU3Mc80tU1X/ywtDE0XbdM3ycDSXEnMGCBqL9XhIWwxHHAm27DIZ4ViBcU1NNNsL5W/tPsagMVluntWgfHTmQ28/pE4geyfhaqBA59iNJmGPdZ7F9cBWoNnLdUwmb7x0jB+xzlGaHlv9MhtvJfFYDoRGzrrhTaYyq+1LyIVcJM7XphTTU537fr9UyfRsoqQcCLJmmGQ
+    encrypted_text: a3Oc3sOKihNm0o8Cls6AmyxIagCjXuX+IAC45WPFEh5wKB7b9E7MXLq5TXZSvZ5GUtrIBAW4mr3kh3aDotjbMHsQwXXilJLRNuVK+7BG6FLH7psSJ5lc1z+KI3hRonQuxxp2kEVTojWL5FDF5N+Oy3EeQVEor9GbpHwepirc1wY5MBI7bgxz1PamreBGy7pqNHw/s7VvBNOEUVWcD7C370sWmE689VZbahsQu7s42tfgoavodlPzU5LpYw6Nz1Jz64I93OdpHLEkwSo9eGw3QClqr5jSB5UXmdBiM4FZBHuuUaObJW9QTROQMRVbNwtOl18IqlHtVfyh1gog1qmB3nqdr32j4gF/6y7oL/vfaCzmuXwJAtFm/vi73gnWO136XCR/CcdPJzk3e9AoghBqL8XJ64sszHrvkB4KstvLSq/wI3HnaFGWCraXFRO84Ntu9zGJSWrPCz1mMrK4mi0MQWM1V34GrzXSGwLKJdCh6Vl6isExs940duHd4w9HeWOBVEBY8Wrr73t/AzTF0QwKIOhCAZCcw27drMuNxCO34hx3YhHAVMgwiG66pAtPE2rzzK4bessQakDP2gyWgXzm3w==
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    encrypted_text: b3ei+xe19yPnzabRMPRFoc7xdM4ouvbnFctBpY8HDdqj9rHqSN5NDmEf42ITGY8cwZnIMEguNBa6YPInWXMsfhoqVH9qw7hJ+mbZwV4v7ImzNcrqZ6Up0+lizZ1vg7Shjd+cGXsR0R/IrU7XMGDOIrdlw6MyUrsKclEHRhg6CfS86KIPs9WitZO8epBPqsTK84/YYsOqrF/X+cQ54W72miDlV0XXCnUeKOK14p80f4tTI2rVT6y6KmkAsrbbXwVnfE2rrd6xjkzP57icCVcXqBCbDCaEYR9KpFk0yoJ2+jb3mIaaTfnBH99V4eCHZEMOmNwnJCe4lRts1vlV/bFkNcCMKH+HYjS8fvEcSSUgS7opJBBZ5RE1IsnxK4gGGoj+M8akG9wwOIQ/gsQzcat4ew==
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: src/Data.java
+    visible: false
+    encrypted_text: Tr9dTbxiv6RIqmM3HYHKNBeGSQ2jd48vVxvsvxkazdqCPQXAa+PIXVntsqDokU/G9y2pGItPN25nEYcEsf82IlIBUM8d3avH1+2ZMBNAp0h5mo5sK1v6oyVOGhMGeNg1PfJP6V7xKvY2Y1B+aDrZNkVmyzYJ4a0j/fzDJjijtNoscbaS13vEu0d/DARBr/wL1h79vg1mxQ8vfF5x0LDwUTh5bsTkX7b40Y2xn0/w2l3Blj+o7lgCjFyyXCPF9Zsv3893iBrCv9dFHKndXteJpVTpJDu0QwFKIvyz/xsHLUx0W5t7IoJajjUqA7YNSdjjYA2JcClBqaGY9KNDTo6JTPVcXVsdZ4a/t5mG6gBq8dUb2nIXBdxJbXCm+u0YD5SJUeO0Utu8hh5/C31Um+gENfqHApx+8RS36yGaw3qDfwU=
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Feb 2024 06:02:51 UTC"
+record: -1

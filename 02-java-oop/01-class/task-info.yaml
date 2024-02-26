@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: src/com/harbourspace/model/MeteoStation.java
+    visible: true
+    placeholders:
+      - offset: 33
+        length: 0
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 33
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: siGmOl7R63V0adGcbUscZDCcOZBKMBYVpr7YV+mlCXF8TfDT9o74CUnMgezHbyy1oTKKffx8ucCHmto71XyilXhe6inUo5SC1T7U6/8Ehnc=
+    encrypted_text: Y6Lvk+e6gAPdKCcGN3ROcbLtR3aFMUC0bUhiOwmNIcGy+vgQijoHVE+fCbB/+OKb
+    learner_created: false
+  - name: test/com/harbourspace/model/MeteoStationTest.java
+    visible: false
+    encrypted_text: Y6Lvk+e6gAPdKCcGN3ROcbLtR3aFMUC0bUhiOwmNIcFDt5rI73DPBTg8GIi4LPMkA79Ja2jMJ09FGe6mCmIgtOFEz98nftGFFeEb562BYnIxgwiHNBWstmo80tkKgf5EFDDqt9jToAkiC+FIazRCJHNdu0q73vVcqdFGyIDJwJrmTZKyGTfUqwysBLvnp78eCeAEy0oiZACDebOG74jPlESepYgHqYNqbtRqXvnIO65vNXH7l0JT2qSuTAYyw3OrZ9Op2J0IP+pisZQiJ/WfMrXJ8X8YOuSJWysLUJtNFnQDFgn14YBdleB+giDiGpl/9xi9V5uUOae4UdUVBA8ZtNTZqZT9mtk1Nbf3+WxeqkuS/OXrEaQaETf6CBnyOludmaj+7uJ6MEiwbo7FKLd3jtFvNOw9RAPAr/Ak/VrqOiY=
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Feb 2024 06:05:23 UTC"
+record: -1

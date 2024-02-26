@@ -1,0 +1,116 @@
+type: edu
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6AmyeWIhmDJL/5rNJXTdSbN9YiMZUcP/KilbRMVqg6vwotT4DzboJ2oc/jB8rzE0rFTMsI5BWuqz+uNy4K8+qbnlcvhlEfPLKKVxX0RfjQt31aYQahxWJzUC2EKerEcbLS9b2WiGg7Wul5RKH1lDNXx94d5VsXgsFBl2XIaDnxcK6pFc+u2E0wz2GFW6XTpJr/ER/6KGw22yvUQurpGKEMz2TfEWm2flvyUkgdfkA/Bom6P7nzCDKQhO6lYHK8j29PuK7g9WsiaZCYtqnxwwfGOGfHwOW1enyi7/oqWr2iaKHu9n4SukQ/ZnETy+J6b/cDcxxINRuauRt5yred5q8FVG9IBOQQVsPUFZRlCmpBi3J3pbaMnL6nbcfS5UUQ+JgQxS6bOzZ8L3cvDB7g/Tt0QwGCkAVnWNBY4EqhwksQC230KmjoHuvDZ1/PXui2AmZ2zMghxONsoRXI1wDJBDEo5zBjVy0mas9EVSG7SCsor8rHtgZmjd7QePS8O4rwbfRxWhGdHWxP0JCOWjMbB3AM09ZXUvZB7kEYdk+rLC5KTuD2ms8caUTwUGB05pXoEj42vFerPZmYZo+NVkl2pWTpYzOGB1XjjgEzxweiWPCf6ECz4cm1j+jM4vcYTW9T0oDfTSmRsPYXkPGAQXXY8aqAMSTN3NfNTWc2qdoqVaEqGi/6YY2n+6Z9wLUf1pA6L72am6apdW1I5RhDjn+gGp88A0WNN6FhkIXLXIx3ZEQmqOtrtBmMPsX5m/w8Aov+SJliTZ/a52pf/NRqgrN4w/poDGB6Mah6b7jVPzDOmUc+xE4tuMNWdViHIBQunxry3Rw8U5YEop4/PxBdK5TOdo3A5qnHMddmn2EV6sn/U4364AhmYqvHtaYjGOvHzq9hVp4GKLdjqFBkKhzWcMfX4a+X2AG5SCsHWfzpajjxx/X3hDOhLqPURDTZlgB0+oGWpMX7BRQpLbGdoIlGPCpU47gkYYKQNh4f2BgsWe4rzJUe8F7dH1Hg5LjervtlWImpf8BKh6fNJeko8tYCx9W0VyVM10rKD0NjEh5bzv5GksYp+0QD4wRQ+zFAuM18IzEQPE03sNpWgVv2hHeofmWbQO7t+Rkk5BWlEVJxqHMhPC22t/aPYqNBTwndcM9pL9Ucw+VKg0qLmdk02h5zlBnRUdfu+1l1RQjEbPYqE8YdWt7gF1gz1mGRpTUY4aolD68JXdWVEyxkKIK667EA0d5Hu3Wd04yKavOa/ArGS4HNQ3BT5kxIzPsrFrJyuDvn0J+c4Z4AS5B75kYyv9xy1SH0RlTUuDMcC3nZoO5jgai4qKULuavE88L0pfd2NBi5iolw3spD4/Nkxn6haM1VuD9jFSsJpJtzEmjF39DWCuBAPBf6Px3huyUAS+AXSJ8F96AUDSDhZ1FBPagUokHhbvVJYrFUYDgU1tgFjgHd1BKIe1fEu6Irtj0obfRpCDwpJXJuj+YMf3I1DK/lNM/kyNpEFWgGFf5CrBwuxNaaf4NBOYzwEzVWAIGW1ypH1fQ6Bf1T/V24JLiIA60YVf9EacHmABi2wG4=
+    learner_created: false
+  - name: test/ShapeTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nG8aCRRNu9s0lIhzUcCHksrcHKWiJo7pOYDFhHrSbGCl/KdolWieOrNHvhqJEONi8rPTZtiDZtqUmXYK9smSTB5aZA3UX0ANmJTiEfV0q1788oT/Ml3VDiITLfW4G7N1bY2CTd3ox5qC+HpP5x5xzoQFoWcpw4irUrKXLIUEqA25gsinnnDjYQtzMr7PCnZzweQagbac9j3dWYYoinyV/L8AoyfxSvBwBNatpFv0H4Go3HZQn875hv8eDSewvF3WvgYjqGtXQOyZgodF6SSMZB9ndjoan8WwM1aZivrBMNUf3Mq5sFXGKhNdpIFoS7pAwmeIYZhw+8HvtPfNDpaNEnYB8toEhjY1Hz2y2v8DuJq0wvnrCsheHwrCvR3hKTnLPeGczOhsgu0IEKfKNubn0hikbR5waQP5jm7hWWcMm6EE4N7QT23vXOBQDex3sSWk5z7MdoNdyitkfph/8tCyh5U2Bw76N0r/FPaOEjbASs6f2DCb8shFupMMSH294COwTNkHRC+YTsiV88Yern3TKgDhNztDQT0Z8iW0/eoCga0IHqrCr1qJIrpyTZaG/UJtU0HEOmqZom5JbPFCa+nxBA7rGBTqWDDKfPjO/yIzwW+xa7XKDJTZ6AdZify6Rq5fJo68lD3gRk3mrK9Da7dJqMAZoPM1tN1SuZrXzVmPlum70hIZGY3d64NR4DPSrrBRaNkHmqYSidyCYc03Utu8qgSXk2gGGxVZ9MIk1t4Tn/cGi9UURVAI3Htue6Y9itON5lLrqtvLEs83hiVo2JEBGjorYuQQXIvAuuimUWn5byTI57lBUZqnhO0MtvbTk7goy5BaEMlph9GqtilnLA8p8K3T0PzTVhFbq0UzgxYectlVB4mi+zGnpk08rJ1/Hq0kjG4df1/+4Zblzc6zbLiu5jgTwKRYMaCa77fHcyYuJ40EHKIAJO9zL22Oj6A7EveSkx01xgNRJcjQLnssO0R5QHO7ymedrw0HvRqxAkYc7PdNTvloClXcZSmJBxUPhm5zruMibSafxVKWpaoGTK6xOBbpMaGOACEpyR5R/ZoVKj/0+i4HutF5Kc10Tm0iDPdOEWu2DhJgIFdZ71lGvlkzssvoTCSQFokyHW/f+JctfEsS5FvGALhCXZ2Y8MS5Ao/S90SCxTH5bTE03EShYEiUeCcc86I5YiX9qrrXGgZp3IJWbDJMqtrH+7J78HritT58sbYGfrfF+Z8RnSjP15D/xvG4k6CrToRGMXfHmj56OJYPML1k5WSUgrwc0q66dCNnJ/k5QkUmF4+8YOjhhY0xAYj4UXZ3JJ14vVAyw4ajyNbR/GFhWjS9GuF9k1HyGXqY79gVQGspXA/tgL6H354UL75WKJCBbjoKcDfJs+Kvg0FKTKxROhERr9Ndmd6/lnKWz2SsYmSChpoKlU3ImBcmglDUhJ55SyUwZHE5TxxqW4sDFHWXhUR+VAQmuhy7YnVsYD5VyhDF55HnD/UWQQH1mUMjFXL7SfZRkuKuoohGFRfHrPtfkj1hEiCgLhwaJJrB12YMDOaybMdaFiTq7iauS61Qf35k2xMFgU+CzcT8VEbK0zAvq6cHYhvxkXwEBbN1QGUzoNAqmkcKDYK80sHMUI4PMn+26fat7oe6xIP5dUskmXE2DTSTwo/EnMphBe006ktp/umZ2omsOIOxKrWkhh6aQZN1LNmt48+984J1X7UWjPjOz06ccIHteIEWtIfie2IuHMwdM2fkaNXuk95e/Et8KeKfmoZQ1eXf7Olrrcu23nLQhmOkLftffbl8Dmm8iWs1rCpG/J6cfuzhVwnidV4=
+    learner_created: false
+  - name: src/Triangle.java
+    visible: true
+    placeholders:
+      - offset: 22
+        length: 519
+        placeholder_text: "{ }"
+        initial_state:
+          length: 3
+          offset: 22
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: RUy4VJd0qWWYpCPOVhF1GNBRG2mzHHUeAElRRsEKnZN9ULcZGmvjPmcFXgGExw+/lcr4eL3VX3hOjZ6rp6VMj/F2lGZtePfc8WC4ZFftbAOGCJEi0y1k7cIYyESm1jKhiLtt1xQsHZnTazNVKoz/qE04EuPijPO+/kgZ0Adeu7vCAuRDYi5iuGxbaSLMo4B2T7zgu3iGlsZTmhE8TiKQkl7MBWcPoOwPNBpahViZhkrpnqkwav3c7fH0/LfmJZUA8vuH7zE0w6Ll7o8OuQLUjqk5jFYaG0ZF6IHVF6NpUmjJuN+rm6IEONBxUlwWPMN9Klaf1Q25rCXsD2q4Xc6EG3tp0YFtPa9HriQ8R0JUtxO+r6aG4+8WMP5+HviFCT7SJBVouSADi5k4h/xTWY84p0AOERd4gDNaFEdugmBvZKVnktFZioGZlknlRULNHT1XSGUW+T1RTD6T46IOefgMiao3J6lu98bJ0IWFmNjV2wN+Luag0E+yDiLWWbPwSxkqDhmszsOwyirrKxRC6C0ac2PKfdLRObLftsugLQp5vxdyJzheidaIr03gBGsEhMPS
+    encrypted_text: Co1d0PZqph3A0ZXtJtRL3XCTcIzs4X9b2BF+NQZwLN8=
+    learner_created: false
+  - name: src/Shape2D.java
+    visible: true
+    encrypted_text: +IszU2sLU405ZWI8OEONm+cNYzwX9zjUt5jIjvPkGg6uHpiYbGvo1lftal0nZruXJ5dUOI9YWXhF3BVycuqV0KnCvNJqGeKrlSZZlxcnLdI=
+    learner_created: false
+  - name: src/Circle.java
+    visible: true
+    placeholders:
+      - offset: 20
+        length: 302
+        placeholder_text: "{ }"
+        initial_state:
+          length: 3
+          offset: 20
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: RUy4VJd0qWWYpCPOVhF1GNBRG2mzHHUeAElRRsEKnZPwrP8yyNb1KoK1L3bRNLCrC8GpGK2NqxElWQ6bj8mf3HjQh6AE4Mof+A+Pmbws1d8DdB+rvICCCAwrY34hcOknmyCXiUSS4RyGz3anbebaFRskwOPJeMyIvdE6IPM799Wwpg0ni8cKWc+xEpm2rkn8oZtHevZfpIlTO0XLoO/IWIw/Umhz7syU1UuRyOo0aCN5/tqefR9sKOJDeUlW6nk7XkDZggf2nWgssO+rVS3HUuK//N/dEhilIbmu01s5tpJNRwdRfLgwSJeuGexGYu/p3DIVsg1nOz77d6G/LmGgL/Il8FQLjrf1sOO0eZrsISDVObIT5IyDdJWJXOcNIfaC
+    encrypted_text: GraOVpe8gtxK3Fy1qZdttoeDosdNKol7lcjWkOAqHkE=
+    learner_created: false
+  - name: src/Square.java
+    visible: true
+    placeholders:
+      - offset: 20
+        length: 174
+        placeholder_text: "{ }"
+        dependency:
+          lesson: 04-polymorphism-inheritance-abstraction
+          task: 05-inheritance
+          file: src/Square.java
+          placeholder: 1
+          is_visible: true
+        initial_state:
+          length: 3
+          offset: 20
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: LRmJLG0WY0TSOxIS9+6PdSBb/ClSrBJxdSkpI3gVKMndIlqU59VSbnjI9Z8Jy2YYCGd0dIdlZx+gg8F0+a9fs7JWDKO99RpymBeCpDE9AoRaiYoHWW25yHmT5aCfqzUSLUOSOBxsS9lBjmTBz3/0Ic34lop+nqKWS+iRHh8JfoOj/nxZtyyzHYQB+gGa22lRYm0t069dIf9CxJBm68WApYhzADZccCvss7+ZDDAG+ws=
+    encrypted_text: FmN165gfxCoUyAnsPQNd3/sWnxd+vr+EUljwmHKndak=
+    learner_created: false
+  - name: src/Rectangle.java
+    visible: true
+    placeholders:
+      - offset: 23
+        length: 465
+        placeholder_text: "{ }"
+        dependency:
+          lesson: 04-polymorphism-inheritance-abstraction
+          task: 05-inheritance
+          file: src/Rectangle.java
+          placeholder: 1
+          is_visible: true
+        initial_state:
+          length: 3
+          offset: 23
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: RUy4VJd0qWWYpCPOVhF1GIz6DclIFz96KIzbw5wDgvvtV0u6gd8jS5nqAkByZOu624nrJRq7oH4JCp8zOH6GbGN0xWXKNHSpEARPmkwoNqYF65YdN7RxUSVH7tTlDGcZkwlbF4HDW5fcmSFb0OrmknQfVcwFm1Acf5b8WsPcLLWja/NZhIt1LDVye74a4/lLqvmENsxodDKYmA0l5UwVrs2XB62UZED6c+S1iw3Oy0L6GtPAAwk4peTFIzg2yfmf/ALA4m5J+M2Q/1/y4qQMw++6FH+ficM30YvlSh/uKk+821P8ulRtUEykLSAu4vmmuc9vY1W7qQ8TO2dtZOPg7aUL7OzPOB3ZI6ICS9ertJZuXYKVSSCcxM5kjM2k6yxPYrEibo4UeGfnmHeJ+M4crmH5D7M7UQUgHm/Tzln4JK1AUTZ10WKIOjZwn9vDpjSaWIxmHgavEppSn10cx/7vXvlqtFhg0uLxultyiU1fBVwqNk53IKddyTdrO59G5brViCm15cXsg5jl16q62+WiCqqfDDPYkOE8kayrbA4b5q2rif0xlUWrC9mCj4S6G4bg/YOlA1w+m0GgQE+sIj2F+BezbV+jrvrHgNW6unHEjuM=
+    encrypted_text: j0tS9jyvZ7raKtTZzOQbwRyYycnT/NUkX+F2Rs2O1QQ=
+    learner_created: false
+  - name: src/Cuboid.java
+    visible: true
+    placeholders:
+      - offset: 19
+        length: 490
+        placeholder_text: "{ }"
+        dependency:
+          lesson: 04-polymorphism-inheritance-abstraction
+          task: 05-inheritance
+          file: src/Cuboid.java
+          placeholder: 1
+          is_visible: true
+        initial_state:
+          length: 3
+          offset: 20
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: RUy4VJd0qWWYpCPOVhF1GMORvgB/xkXZGZ5w7mmGghgD/shZ7RZ9x3JbSl4GebskHBz8WkWCfPAlJ6WMh1v+qADQzHQOzyxLcS034vOL9q5f+Bh+/UhwSzyu2dQyLkoKtNoc1St9VlTakpE0QvmZSia2r78j3kAOkDSZSJCOSrJVP1wHLd+DikWEDKD67bTtdSkV0gKd6yCv9I/lysjusNpdzJfl7eLpW3EpyMYhS3ds1stOQz9j2zIGNGDhoyEHzjfZy+x3UjFUPY9TAuAjzNEQb57SjYJWpOObpH3xmhsH6mHV4Lafe8uaDR9REwUHVCXd1rklai2S/ACQ2FKvWLj0Ds02NHHB073VSbtYiyGZFJ83WHXBbrJ7Z+4zwka2fPscT+JXImOuIRzZmWOpFahWbnvlTa2chXdKS/bWuDL/PMIySQXzjWQ8sszIBqOBZQkkgHgYnLSyrnxKb3THt/Vl4IfmH7GmawZU9DXnq9SXglhsKQ9vhuW6IzVu7LOaOc1+RGE5ESLoeUYzi2JutPcbrHS5WZoxElmtA9ITzyLk9TuWMElWY94SSM9WSy2avsbFFkVAT+A/f8EuguIYaSB+zd0PwRFDNs2+hb10w8U=
+    encrypted_text: Clwi07DgoJwpgkDBdLkqpER/Kg1vWmLPBNZaH4ISfqM=
+    learner_created: false
+  - name: src/Shape3D.java
+    visible: true
+    encrypted_text: +IszU2sLU405ZWI8OEONmy2qeS1OUN7DunTt8ToVF3GvKIUvlI6Wo2LT/SJUrfzgwsa63IVK/GvkjDz0K5r8dhu7H/E9VQ0dTbCZhLdmZCo=
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Feb 2024 14:27:30 UTC"
+record: -1

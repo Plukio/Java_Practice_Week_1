@@ -1,0 +1,36 @@
+type: edu
+files:
+  - name: src/com/harbourspace/Main.java
+    visible: true
+    encrypted_text: Y6Lvk+e6gAPdKCcGN3ROcZtASZauEDMiYmdBhCjIBGSKZx7/F1jKyj1mE5fmwXbl3+l4O15ufHyD9c7hSIQaL1YcBjiUzAexPzdeEHj8hJbwGLHkQW+/quA7bCjR7aTP5Y7jkqKv7ansUG4hVPx+0gZ4RiRQVXIwSkq5WJSq7Ay3VJ22ih4aMbCOEDuFYAvBo2A60yT6Z4/ky04j0E8zLkDHgtvie6lU6gzHzqNjtNnLWKqc0cbFttNQ/UAtF8uFURJaRtp/MiIiYT2a/KTF1OfQu9Pmxy8Z8fqtGqBqeXchzm5g0KY6YJ3o7ipXY+znI0Tqcg4qx6TPR87g4q2g9Y3PITkLVyueSFFxyzJejmMZIcclmDQEx+r89fjVPH+K
+    learner_created: false
+  - name: src/com/harbourspace/model/MeteoStation.java
+    visible: true
+    placeholders:
+      - offset: 66
+        length: 158
+        placeholder_text: /* TODO */
+        dependency:
+          lesson: lesson-02
+          task: 02-class-instance
+          file: src/com/harbourspace/model/UniversityCourse.java
+          placeholder: 1
+          is_visible: false
+        initial_state:
+          length: 10
+          offset: 66
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: 3nO96iYs+QcRhdVyDL8DqwjqQyaYw7aHw60YDcOczmtOc6Fu/73Zor+s5aY0aBciSMlmSh1fcZXT85LcbRuSE5k34RwpxRYEnAxbAGPXdsTtORU9Z0PUdeYzdNSIAad2MBFO6naFG85bxy4dl/QZvNa1OmlWFIjzQ4mR4ofPAPJ8tvAmNZGAgjd3k4Vl1lf9ZvmsT5u6AG1wae1QOgnGUA==
+    encrypted_text: Y6Lvk+e6gAPdKCcGN3ROcbLtR3aFMUC0bUhiOwmNIcHqswUqlHOKixHN9Y79Ycf9NwJV4bJxCUdsJLG4gJIg63+dQ1qVeI1Y/7KlFzJ7plD+wtD4o17eJbt2aKgOkdQd
+    learner_created: false
+  - name: test/MeteoStatinTest.java
+    visible: false
+    encrypted_text: dMGTCELpGP1ckqfwdL8wwxE9p2Jk+wbeBWFEHrlHycS2P8xOX6F57iGDYCmrWPew4UbpXRHFDqMrtJ8WGU1E1LiTX4duIWOIbXjX09RA1gMXRJETTt8BImmdHSZEzuSI1boagwKHX3tP7vpVGTxhi/bDtuqD4kRjkE2xzGJsmdeiTxtqQbYxGke57nkCffUm1MUpm1d3VVnt99UARNui2K7lQXXEdWUQcKUyKc5vobJiR+blBJa/q5pLNPIpUwrxB1nITxgWNmOytIjftmNEqUSpA2YYIeIzHO4vVazxv5wXJuBtSWuxuPMtFjnmFagsuMV0T5+LGMrY3ZUGttIdWdu3onkdRO4upqBl0NRwZjhkzkYp5D4FU+3SrWTNSqWDgIBw+UwvfGiu4WqF6QcAuMQXiI66EpkCxwJjxttUndbMx23C8M+CKg+dPZ0rqwDlbAzY3eL+FQFf95lWLpU4V4fvUtmDYTnRsTVbzpHO0I1u/kJQdYfmXViEcE8X02SbnHBS2rqpi+OiOtrNXW3TQIHp85ocafquji9jltTppEsapw3e9FzzjDgHWAkK/AH2ZhA/rA7co3sZbktN/HN9lHN7xvuicm4M2oNbPY7aq7maFMJFeWuw6zgbcJ8U2vqJ
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Feb 2024 06:06:40 UTC"
+record: -1

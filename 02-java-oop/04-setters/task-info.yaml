@@ -1,0 +1,91 @@
+type: edu
+files:
+  - name: src/com/harbourspace/Main.java
+    visible: true
+    placeholders:
+      - offset: 386
+        length: 52
+        placeholder_text: // initialize MeteoStation using primary constructor
+        initial_state:
+          length: 52
+          offset: 386
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 5P8851V5WsJ0a9Duonq1BAeUcqNgaMk6OUmhmP9remmE3vus6aw2OQ+0zMi7lIUHnAd7CLQgPACze33dDFwF0R+kTWJek5jUMGU/Si9tTgU=
+      - offset: 605
+        length: 54
+        placeholder_text: // initialize MeteoStation using secondary constructor
+        initial_state:
+          length: 54
+          offset: 448
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: 5P8851V5WsJ0a9Duonq1BCou5y6TmCjpM1Hi6uPUQ77LtG781wGOE4mUU42IHl0m6AKzvxDqeI5Dawfmo1VhQQ==
+      - offset: 668
+        length: 15
+        placeholder_text: // set position
+        initial_state:
+          length: 15
+          offset: 511
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: fCM58fK7iw3ahOr9xTgO1BITuDkz/LgY92d0ORTeMq5V1cHlt9d5+zrj/xmgi6DI
+    encrypted_text: Y6Lvk+e6gAPdKCcGN3ROcZtASZauEDMiYmdBhCjIBGSKZx7/F1jKyj1mE5fmwXbl3+l4O15ufHyD9c7hSIQaL1YcBjiUzAexPzdeEHj8hJbwGLHkQW+/quA7bCjR7aTPXOkX6hd+mKUD9qM3bB201NBljYDyqh4mBumGJSPhRgz9i1mOkpMHLHgxQGA5xTtB2j6Gj726/V3JzveJbdgu+UHHZsJjxXFo/KD+6Myo3eGLd5A8PULPU4hPrqZ6iJWd0KmPTTpFr8/2Vk8QCWXL9fv5sp9QzAkDra+/26Ki9/cFDlAzON+uZlFAT/rhetPOSXmrDGpN/3VyvyGiO6E4dcI/5Rw2PRhm4ayNf+YKgGs3m+wxLi3vw9zz0+xFkFFiRX45MLuB8s4j6hSXiVnEJK+BkqEiuQUGVCZ2XB7xqM+RcaHTvJFdasfhwxDXYQnnecDCNg08LCcHrJVbkzWQU7Rmt+2fGaD62I/4yvd1TVgwfmF2eYozrqcfZRZrh2lSi8C0IFpLmUjduqLHrh3IyOJTmSab0kSAzLUTE/mCHVYTrTQdTCkS+O4TpYmIrhho6UbDi+aiH0/nGKk/dJc4WVnJcAwMLAB6KJB9lYOBXk7qB5wOPjf6W9InCPW4sQxDMsMlbMV0hKsryQrRFVO/kfURiN3axwqZZDCYmiybmPia8mC6AVnk85INGPpkmkBnI+MP9kaHGVSNvJPJNBenV1oyN5YmwY+xeDv5PbVhClTh9X5rsY6eM0n1LTn/WjUzlX36fVEcfInxQAwbf6ufdz3I9pLFKI37kylDoT9KMvg3wVnQcCLjphj8SeXvHFzsXvPqEN3yTBbrjBo5IcYXWOTR4t1rwNAPTHzs5qhgD/NtM6LX1f+dzjh8NhrAq1zr/B9GWZWU1Uv8x4/W+qOy6p6empuKfgivXn8H4K1hMRlOgtw+zZpKh5mfBxvQtjzj0pGKnJWue+uFxf/sB7rdUwVO+5YZWj7kAbWYh4Y8khhVekEP46G5N/y9H6zRGYJuPxCzSzIZfAlaCFoqNPnMaiW1wND8YvVAPimV4Bed9+p+monF3jIxA8hShZcmg2+NzQGiuEfPQ8/h25jmMaDcAgL34IEJ7qyCDwv2q4+hfYUbegnL/XJZ4j2w6az9i5ZuWSzr0FL0/NdJrVLruo2L00C5DTzIUuG/tYSZQc7VPWuk9JG4oBLt8Fymfx5YgnoP2SXyET9zaCN+LrHKYzwiCRtQHDPHOxaC2ko7BzQyHpehDwMgQZ9+yF9ajz4V5ZQV6obTjmZKBCWXQsQTW5FAOA==
+    learner_created: false
+  - name: src/com/harbourspace/model/MeteoStation.java
+    visible: true
+    placeholders:
+      - offset: 443
+        length: 15
+        placeholder_text: // add position
+        initial_state:
+          length: 15
+          offset: 97
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: 2m9FT5iJh3XXq6E7vLyC2IIrWMGxpOuw/9MuBPEcmE0=
+      - offset: 464
+        length: 26
+        placeholder_text: // add primary constructor
+        initial_state:
+          length: 26
+          offset: 118
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: K96yXbYhu/oNwWdETgWaWYQdNbs8bGNTfTlwPb093t2ZxaNr430p6qwFp+F1nyML5xeC8GEDmGfgzL6F1M7ebJQZG/XpTzyIJ3LgsUAQ7hud0uOPL8/978jbB3SVrf9qbtoV7GMRnqqWiKNgk9feY2uXwS9YsEJbXNV2M8kfctlw9NtrZ6DKsl/Ptl5P7VhkofEbML1kejpjz/0HBT7RXw==
+      - offset: 592
+        length: 27
+        placeholder_text: // add field initialization
+        initial_state:
+          length: 27
+          offset: 246
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: zW79hP5JlIwo3fV97iiK43CIZ2FtUdlRf1CzwvMkdgM=
+      - offset: 631
+        length: 26
+        placeholder_text: // add getters and setters
+        initial_state:
+          length: 26
+          offset: 285
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: eL2btLaNsJiFXYgIOjglngGhlc/cOt3WzoNWkDdKbxxVyHZv0Dr6AiDDEM6E31dHRwO8qfoYwHPh7L5Oxct7g0ZjBQw4z5zONwklL+xOSOhUG7uVg6zMJ3chOGg58OlHEnRqY+v+Ar1fj8GcTmtewWkHffz8wB1Vr8eQL58oyE4eOuJud7MdLKlkAOenhaSKQSnMWWls3S65qAMhmfSFutJLgpzbNnphO6YshI02VEk/FBH10+cIUWfdRbB/4+k7gFu11f6R0yRVGyTS2QRbfaqTqfUf+KI9z/sxTHv+CY4=
+    encrypted_text: Y6Lvk+e6gAPdKCcGN3ROcbLtR3aFMUC0bUhiOwmNIcHqswUqlHOKixHN9Y79Ycf9NwJV4bJxCUdsJLG4gJIg68cdqi2qNhnYPcH1vkaU+d9+D1fYhTweqCiz0w8cJtus86rgB7TrrFff7YcKdJFtXLGx2FrBcAIzTyGnxsWwHcimXuy9oljT5FMamcgWQuInQG7EGvSGNCYgvj6/sb7N0RWJ6saiHc0zh1VYU8gXO73EzEXtCZ8SdufJtbjdweEJNoqdZZlUimw4oXs5WioCZkHzzAllx9f1sod6R7Z3+q+aTlGdGUZG92zmEW76i7CFA9CXg/r4SbEe27MC24hqQjY0ngmcPHvcG3tWpvrnrbySN949dwOK/BKheg7473Xh8X8SB8jwf8xnq/XlZoSxpfeqHsS+56K+QdF8cJO9sGY=
+    learner_created: false
+  - name: test/MeteoStationTest.java
+    visible: false
+    encrypted_text: dMGTCELpGP1ckqfwdL8wwxE9p2Jk+wbeBWFEHrlHycS2P8xOX6F57iGDYCmrWPew4UbpXRHFDqMrtJ8WGU1E1LiTX4duIWOIbXjX09RA1gMXRJETTt8BImmdHSZEzuSI1boagwKHX3tP7vpVGTxhi/bDtuqD4kRjkE2xzGJsmdeiTxtqQbYxGke57nkCffUm1MUpm1d3VVnt99UARNui2K7lQXXEdWUQcKUyKc5vobJYdMSFX5g7gjuqqnY/4o6t1Y4fYD8z/zM7jmvjMuRQJM+T0RpYNApPKhiw9FeX69zZG/fvhPQ8z3o+RY7500dpy8AjUXDn6keFDx/LW1RXu+wwdCrCZzhAoXbiLj/LIcaInwSUwSXS0qSQfyNihFIB1dYQyEJ6OXhxzy69mYdXVFK4z+ocBAXjWr3fwW4a7GWuDdhMSKntnplXgd5lHBJ2BrFgJJn1XO05DM3bnjej1ch6F/u9s583vWEoWfnbdtTi0Wobww6rLui5Ke/oMOXvML2YjQWW5l4Hsj7tr01RhtgliWc+uYNsU89w0uk+B53psxv3OYUbA0wBZpyREOxaiTUMRef5Mbxz54YdJjrk98PQKmRW6mQD0zsTDeihG63moyEZZ2+5hIZd1SwMilMjrMqBe57ug5yC7tTHPEq5Bavs0OVNDkFKc7Z0C9p3DE/fnr3V+05fgGQWByvPSfIyyhG/lVDWpVPl5DAGnlScPiW+JMmJ4QriFQ6+F30GXW8rcFAYNaCevEBY9CMUUg/iM7bSuCv0o5hl/FVBjxYdazJQZGRhdaS5zGJsIBoAypcDN7ZpmjRwTxU9S1b2rSiyMAaeaON1OJ24poycEE0WZW4Ir1qkzWTvV1WL2IV7W6pSqp0hEeFoszB0jjcQSJgyAOMeCQXndQdG2VQvsFl61vpJMoX0lH7WAzDM4lgP2d/jniV87zfWFX487W1MDRpxVehvVfCVg45uDdrNC5QrEGgnM5p0Ls6OG3zEAURAd5TYrq2QRZGmY+b3US8vFGAAEeXV1Z8nwXwzMi+ezRULDhjwztAB8sCeXqHZ69KvBwubh3pmReMMwKxDheY/+OTijao4pYFuOYOiegLlE8FiT9Pez56J5BDUr6eul/aD/iJEGhxsrfRihD9PejK/1zgERknrQ7mY+CQi3m4cY1KZyTwosn0PDVDaqB9wK6jpZN2FtMa0QWG9iNn2O+gsSDXk5MJ7GGaM9z9UsYp0X8Nd3uOkpovQhJ+A76zYEUYL/cHjeKYWinIVVyWzMXps17CJn7aVnij+Vy7vG7lY72dEc5pWB8N3Y8/yzo09FHAYy+B6E12dNssygEzDxG4xB+pJksteY1KHUL9q73S/IuaVbRdWQLuDjqp/9UVZCGriZYPQavCPwUFj97NFBlufPNutzHwxOKbg9gAj9694zI8N5bQ24XKCls38EYwKS3W1HiHNKPgK/CHSYqMwHhy3BvfotNquqvPfP2yvIZqaD1YswRb0/KyfLpzoRyGVyvsYtXaYZMBKgvhvCmKm66LtctZUzv5NpqV4INPvaN16B/akWjS/5yE6BpvnLrKMHws+gJozL/v9JYfBcFC6MwwqidIotH6fiQLyqwri+pDH1MRTwFiY+QPnU1tePj/2xx7VpYTjw5v6KTlaDIUTBwwqZiGsFH/Wa5UV3dJwUH8Wl+HR0mDpFd7BZuwheFPVL0IkRH9umXdgXiVoBjYLhfpaiI6m
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Feb 2024 06:08:36 UTC"
+record: -1

@@ -1,0 +1,44 @@
+type: edu
+files:
+  - name: src/ConnectionHandler.java
+    visible: true
+    placeholders:
+      - offset: 185
+        length: 102
+        placeholder_text: |-
+          {
+          // your code here
+          }
+        initial_state:
+          length: 21
+          offset: 158
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: Ek5MLZIwscr9iIpAKIyvOqcdXVQ819wkgAvC6E5D5E3bKU91fNCmqc1W54aOLsy+GX1/0yx41Nhhg9aOA1js/qloQclHl9L+F+eE32fIscoAV8flSA16vlIfv3K/YK5pqFgFxy6JxvnBnTGFAhSGxytTNjKXitbTSKdR8xgMs0arQGQk6x+Pcq2HyE6CcCTn
+    encrypted_text: Vf450tskauyMJxuX3FuSgxggZ/QYWMtYKHXH9o1YXBVHGd4RHExy5gdnYTN9hHdn5q7u3jXujpuvYm0h1z6jeOouYfms1kzQfoDxFvYrzSmv3m8NuVdeRSV8S79OunoeNp7awwpTdK16FAH0v9gYlX5vp/JWJLikj+H2iMlJ6azyKnw/povZ9Dcoy0tgIf0jnXjjnS/DGCnKHXoEO7+gOVw2vdyb9yTwo6iBq551JYAobJHdevJiMfS66SwKjft1
+    learner_created: false
+  - name: test/ConnectionHandlerTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nG8aCRRNu9s0lIhzUcCHksrcHKWiJo7pOYDFhHrSbGCl/KdolWieOrNHvhqJEONi8rPTZtiDZtqUmXYK9smSTB5aZA3UX0ANmJTiEfV0q1788oT/Ml3VDiITLfW4G7N1bY2CTd3ox5qC+HpP5x5xzoSEgMcPnW4AKE6PhghhK3uhbk2IDpHjwmi4RKbb+pToNL3LKh/kfwpC8WxfCtH5RGYVDF1ObcrRqFV6lqcYKypijPFRxoJoYMZazMD7uluUy5Id1hcyNbAXZW44Sp6pOxeBpNSZVvGNkKf2vqzKTpvyx2QFYbSP4zLNisbBQTPxtAGJfyGxfvu3WUbVFAnsLaQ5ii6HL+uUSc8X4wZjVm3RoeqQzKDthjQvNXNUin8+WOuQ1GBULt2SnqqJRfKar/3D/VibKe3zz8FLkkDY84cUThmoWkaeDDcOD1lgDgYWSimY2f/pQwdCSvn3D6dHBSwq1Z/I3TXEgXxedkrsPz8MDI2m59+hX91xoZLLgzWJCQ22axi1tHYR16mh6VbRqNHeynDNj6aNkFHll9wjgML5yIBq2pwWsmmBH9TV4Io9dm63fuUyq6XhxXNIBWlfVFMiZKOlZLnr0Rsz4/QsPz3utKVP30eudLXfKUCIpw4dvfEHlNDgJl6cJbHFfRq3cfDri+pOVM6VdbmNgRVBtGr3U2UvjPE3+4fwRdgkpTBSS5lEcxRLuDM8XpFrvXbp42tlZhtcllspJx80pgcquwi9hY2Ymi7WbI0ayJx0dhR/G8lMffYMevOpYDrk2fWiqnyitGdz0c+am8VrMFx+veRZ4Cdy2Sk24iskNDQ7Qdl99HIFoAadgTzmU5TAd70q4XN8c/b2SsHsvfaZKpsJ6Qs8gsrxPP4AjxB5XAw2arJMXtEPAl4dQ9pQSkOTB5q94pbR5APZkZVCZxJLqhz/v1t0ENcarGlOjG+7q3Uld9ZlcPBfU3gC6FJ2OR5NEb6opSPSpbwFIwgLgvVBy6EGB8rVn/cvy+xjsdMhLMqwn7kFd7ybiUsUmhELCtvkVMJb3b2b7GbOgQP/BKIk5YRd30V6PGB5n6J4OWy+i3XWGVZdg7islRg14sKaLfakJg0KxLqvlCt0PuIEMKEQ77Hle7LKEMJIBrCQ1D0qFvOskX0+EH8R6gqHd/UHueoO60O6CCVzCL1U599bCC5fTyc8zpRd60UmfvbwFqZQiPceAZdryIrKQMAG2MAkfbrJ3zIpmsc=
+    learner_created: false
+  - name: src/ConnectionException.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 141
+        placeholder_text: // TODO
+        initial_state:
+          length: 7
+          offset: 0
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: Vf450tskauyMJxuX3FuSg0c+XcMmBWceCUXVf1fvlRKe/mnft7fVHV2p1o6vNRPMzIlz8rNAHyG6weAh7s9nDgWatzZkeQCt9YFeLTNu7hBCPVrWdzBDY3I0Euj1loe39WB4EzFfMFxXW4IFWL6huQ612vD8LKqjkCLVPNpjVs/GzBUrOVxOGHWUJZrakEPP
+    encrypted_text: Cw3kT6g9a2xK577R34x36w==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Feb 2024 10:28:50 UTC"
+record: -1

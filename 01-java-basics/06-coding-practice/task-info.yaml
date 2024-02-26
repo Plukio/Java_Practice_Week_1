@@ -1,0 +1,37 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    encrypted_text: 9n2mqf4tKA0Jo5ny8jeLNrYiVLEjjhEQgRmPNyYcdCEQoS5GInSKthbd8ydLbHu09EdFmprcTxOWRFz5gIBogA==
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 157
+        length: 665
+        placeholder_text: |-
+          /*
+           your code
+           */
+        initial_state:
+          length: 17
+          offset: 157
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: WpIxQTGCIJK9N+uLnSI1R6SiiGwrSjp9TsXcAOCqVoIZKo1fw0yNpO92x2vAHO5SF7TZxGPnQ8tphPouutbinZSnxIzeJHO62NwThFZWdR4cZHc9RnTBO3d0Ykr/GGqb6Iel9CKE6ouGg3KEUHypqDCV7S6/8YmFcj1H8qC1Gb1z3/j9wwGvLGSwU76O6hBpNoNmyWztb2jokmyiYWWJiKvd9+ED/+Zbh5N/A2Kaa0Qo7z0tZCByVInTIkFAJEkSBns7j0C34Mc2X1m3qIlltYoRVCXKoHINmV+Bgtkmd1oI1y5mBhQ0vkp2dNkNzK6UGy7Y2S381qh7pOhypz2Y1PIGbk+KCFsa5l3IRLPdBLm8ZvU2Qtx2Qa1GUnDKO1PDNki6IZfbYBUOO4Tv4EkBUus7Jga+1RfZbH9Hpn58jWAgtuELpYXPg9FsXQ/WywLD94WVBB3+CCIJWfanUOT93qB3HFLkHq7axSs/nB+6coja0w6ptVNFOCpEcBPyVLJ9
+    encrypted_text: a3Oc3sOKihNm0o8Cls6Am/vf7p+FFSW3pGKReHMyVxX/1axCPMsMY4PwZglqvo6Sxva9SAOm96LDfED4gYQh8dJG74OpD2J7VFeOGGdr/MzX/B/cogw1SzpL/f+t9T00vT4Yi83ilJ4xxvV0Aq2ex5U0AMEkRPOR5596jKpHuIov7hVclG7Kn6NWQm3XwKFgZqoJjTSQtHVgng9MBKGCC9NjPe9vcPGkLfTL+lSI+NkMjgyVc0b3QfZg8MQLOHWFjdY5fla0rTT8vYYJ+qZjLlpH75D9CcUcSCk1X6lklLyC99eo8rbb7RIaKWCUZGKUoupyNVDQCOTYao6l2RZBzB23EwBfBK8SSom/iTw38lh3Ox1YUj11KcPidHtqOrwuNjyCKpPz+ZbcuL4fImxq9Dgdk34v6jbcFt9ZMr/hrRguP+9NWozWF97jcZrvstMA
+    learner_created: false
+  - name: src/Data.java
+    visible: false
+    encrypted_text: Tr9dTbxiv6RIqmM3HYHKNBeGSQ2jd48vVxvsvxkazdqCPQXAa+PIXVntsqDokU/GYW0a+w1N9UcJAIEnJnJ3rehCbf8rVaEJsNBpsn9E6d45i4AQY9I2PSApiRhhS6qtaDsQL6eXnNj8CPvtX96y14dLART7R6IZI0e+XfLBMvQm2uxH65GrgYlsBl68KxurGPNe8JYfzVVoESlkpU56/EStk32diMbPsy1EHHBOyq8=
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Feb 2024 06:03:28 UTC"
+record: -1

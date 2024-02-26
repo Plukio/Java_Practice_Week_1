@@ -1,0 +1,30 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    encrypted_text: Z0ISmLYmLZWs2hlejlNk/LrElDS+tGIfLCnZXlkb44xtp3U6j+h6hgFwXcNm6hTZ
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: src/WindDataTask.java
+    visible: true
+    placeholders:
+      - offset: 911
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 133
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: mu5x8D0LNtnryilEiCzcNilRPrdn7UQEky4uP8Rs96lmioT6zi0n+4lWIxD4FelXqSEr/R1a9xfcUcCrwfYSVF2eQecJ0K4QA5Fl7U3Fw4mGM/ykmpFKB4XYdWTR0xOV
+    encrypted_text: wQp0hrB9ABwR9iKvB6hYgPnVVpGgVM+tT47cDwxVr9cqkAyfdpiTEINXRoDKKo9odMsRJ35wKVE7lePU19m7U4dBdjSmzpvgc8g6Q39LXAIm9T35bI2MtfeeGdhoW7wzMtVxonJOjP1ElL1e+WzxcS22OMK2nsdIVGapb4XLDbtq1ijEk8Dn9/JW0Wk6B/kq3Hv6+ACVuRudzMqoI1lSJwbd0hBNfSz4yfrUT4AYZO2/4VLC2dy+Wd/wHWEKZgbdfI594N2U5sXYwNuOBHmRAQb5DQZu59fnOg4rCJ5KWPw3UA/PkMsRVA2NZaxnBBVnEcm+7U0Mu/MCToZecq6K/6jqDi3lpRYvb+P1cZj8Hrs=
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Feb 2024 06:03:09 UTC"
+record: -1

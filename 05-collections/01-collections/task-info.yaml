@@ -1,0 +1,66 @@
+type: edu
+files:
+  - name: src/CollectionsTask.java
+    visible: true
+    placeholders:
+      - offset: 57
+        length: 158
+        placeholder_text: |-
+          // rewrite this as List<Double>
+          public static Double[] temperatures = {
+                      19.2, 20.1, 22.5, 25.4, 28.2,
+                      26.1, 24.0, 21.9, 25.0, 27.2
+              };
+        initial_state:
+          length: 161
+          offset: 57
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: N5jwByJwNCdlZm3OAnels0295yygmN80v0Sr+KqwFXSTLwc3/yqo4o5MgSMkaTc2eBSSSHqC+0+Fjc+eFlhQlfkhaU9GHA6pDRyf6cZ0yAz5lBXe33FmDpSRsJ4yXJL0PfVlpl6uL31AqSG4vne77vmAwVo7LMjY4tmXJ07DeQS6VkjfrL1kf5Xtr7VJV1N6kv1gmg5VgGvEULTktUpHrg==
+      - offset: 221
+        length: 231
+        placeholder_text: |-
+          // rewrite this as Set<String>
+          public static String[] dates1 = {
+                      "2024-02-19", "2024-02-20", "2024-02-21", "2024-02-22", "2024-02-23",
+                      "2024-02-24", "2024-02-25", "2024-02-26", "2024-02-27", "2024-02-28"
+              };
+        initial_state:
+          length: 234
+          offset: 224
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: boeiys5YLTW+RSl66S+HROG/ZkZOIz14OhK8k+8WfRwZF1G1A+VAPZ1CL+ZF6wA1HEgSmNJdGMHE6Uda4PUKBUuAeQqWk/1tGz+mH6Wisk0QV6jMu0OHeJrb5oyQoiKGQgyBTGBGCNT7A9ycTGDmyb4D5oU8frvhMr65LVM+kmiKH1e2RXvmhPM3zaECnR5zwQKftsWYfYPiR5S0Bw4hQYdOS9SX279N5/ekAgURKwplQtriyJClpE9YHGyVz1ockGu8uqxx0NyJSnpGDsO+3g1SolRWij543qbFsSDjyGcARSVQzPfdUeDXY+0i/Pf9
+      - offset: 458
+        length: 289
+        placeholder_text: // implement getTemperatures
+        initial_state:
+          length: 28
+          offset: 464
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: qasOA2tJ0Ihee99wmY20QnqinXsFFoW4Ndgd7axIYOTtlWesvBb6Jl4JkL27vE6it0zI4V110mVardCNcugqP1PNK2MHoFkX/MqOBAiwJ7c6/YyZI3rmxXG7O88FMNiesxh+jmIEmp6EaM6aqsx/cSvYB4QLiaXUhDZtE4OH9EYX7ww6TDHEpbbWEieEoWA7ieJE2npJH8+vpUxBCGZtvBZr5eP1u6/UHTbl6dCUekIhQqEYTQCGBgwrwXtfqyuohWncY+fgRoK7zLz5SdiaYZ6H8cvtjoGJ+s8TF8W+1QCr2bXPVRhxNVdTzTLU8S7sgLcgVeDi/a5vW0ewMCd9JvyfYi9o79fRinX3pMR+GJirFWJascVuFjPQubgsWsTk
+      - offset: 753
+        length: 467
+        placeholder_text: // implement getTemperaturesBetween
+        initial_state:
+          length: 35
+          offset: 498
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: qasOA2tJ0Ihee99wmY20QnqinXsFFoW4Ndgd7axIYOTtlWesvBb6Jl4JkL27vE6iH3sOFPAOkUI1Uvw3f7VeHjBTUpJo0Tn2U7RgOsXTs4wByxFj+Vc8wqZdGia02gwmSAoYtu/PEdGpslHH5P0sgCZi1JTQwMmIDHvue+tFUy3GkhyA6AIbPFs5XRKQxlWa5pafZDNQ3WlOx+lYK9v21/8GrxwIXYRajghbCywnPkiQRItuTNlMKuy0SSjnaSebl6hLmUAAsB2h+G1bqrvcIiSw8AG2iE78WbHRJS1qC4xt2gOPYqtxSx5Op777l8NbfADt3e+86jqe/JyI9FsujlKgdRvFlMpkdfjDbBjVyfYCrCnzKApuykTQocoLVXhHAHbh6AYyQ8Syh66oOjWo4ni2VrG+C2hWIUHQnuXpBuC/WQu5SDkKx+BuaseQFE5hhO6MrzMll7fprjUJsw9Ot4rjmSbB4W58aWk+BUX/rSdo8DL9/AcZ9c1bOUnEGqz2QJKZXtAABoS9JCyJm9ron/LxbpbC2tMCkBGa68a+pqVO+PKT3nAu0051K6LbkECR
+    encrypted_text: NYgHoNruO3t7vIi6YFhoH7NgfeYzu1KH7PYwVOiEzRuPMRgE708pqKlKZDJ8Zio3m4jbMamCtNqZag37N/Tu1oOqu1TWKlef/cN7Y4I8ur3navwyMONkwHLozQ5e1PD8dRCVTYYBOPQZMZQ3CO/vyQ1s0fO/xOvgtbu8MctEJGzhx0CWvA8m1yFGa4iJ0UcxS9c4nS3aX5s14M2KPMsz6KwgGssbsE+nloUqRV7g9OfK9JRsD2b661cNf5OsXATwMGAS4TG3Q39lYgca24NiB2s4plBAijEZ4kXaFxmhFc54cO35I7INTwwEMtGDLV2I855zEMEpwAq8Pj/jFXWr1qUB1BZOETvayiKWOre0eVxvYvrNqxvNlWfNK2aWBjZFPxMVY/7rMv9NgTXTavWpFkJuCQjT2GVSV5P0Qj/gFVwANtbdNPZBKAvC1xJmw7e9LrBWaZwPjj5pGqpgIeYpZXf5e3dLAcmpxjnL4j68aIIzatIZiF8JDwh9FDZrCignfje4rw7Lz4nWne6pu3OqhdXYDknZl1J3fhe3IvIhPECuHDXyvZRU4ktSGZbz+UH7fBtgXXNNezXVeGnM0LQHYChQQ1Z0Y6+mEYfX+4WirgiQsa9XUC122Bl71LjhlR8pqwls4yq3KyRuUNr91ft9lA6udw/ZCktSyyisHnXSV1Ej1sq22t/BI2og/upsgMK4l93x+44YANUNkOkI2J9gHA==
+    learner_created: false
+  - name: test/CollectionsTaskTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nG8aCRRNu9s0lIhzUcCHksrcHKWiJo7pOYDFhHrSbGCl/KdolWieOrNHvhqJEONi8rPTZtiDZtqUmXYK9smSTB5aZA3UX0ANmJTiEfV0q1788oT/Ml3VDiITLfW4G7N1be1xctZ5sFvuI2uPNZVLLqvJOiNz0FzNXILL4kNhZ308huiso34Zf23yWaljnQT9UlANZ1ppeuoUI/d58ERMb69PiE1AcQCXIaN6TWMW+eAf7YOdN3VFkU+NJLyxcuBW4tpsB3+S0qVVediodLANsWP3P9YFhnzTAbKt3DwkH0elgnAWL5k4qYDusHwiNVRSB1FdCeL+9V1qRMdrIvW10KEeBz5nUCtaQYdyufYE7kCU9EVGUnsCrQFi7oCszJF1xRiT8LUlLelpKv0JhUdOpkVtWFFTW1/uR4/nGcxxP78VOhNLYNoVnrbbu4BRLzXC4BL0+T68y8aFimjo+WQflhPX1OoK/2P/yFN/I8x0IEF/XaXbRUMAUikpI/M5hEnIR1flQ3AFvQvq4rvIaJultVVDw1yZ+GiS2Et0qs3cZKM9GayWkGwy3kYL1m8sl7zxMFTGI0XHnfftIRDqw0ExZrH2MuKGSjWiqxhUpFZWvn82eAAvSftQX8pxMIao9p9SJMFQOWbNj/eVami5nucR/ejeX8Nd7jwdYpUJWLPE2oE8OZ0DvKeLJkGLEuJMUQYe4hDKwtxDmIvfcGT0FF2KlM2DfcwSmeh+GXEIZMhMEEmoK5bjEICfsw/OVerUHoCiDylsUJdDTQRuuY+wyK3O1caRKjD/IB/pf15WzaGZ5khmq+/E/7SxBJm1C5QbGppVn00cGY5fRgcmiXVAesKLKPjlX2obIzaDDvk1coBzIOfQ2/qfoJU1MAK8rnhVmDOpSalRiDwii/6SKfCFCbyT64b8kAmoEs44Sy8lp5xbszadq7/yBJTEJPVEtS5DjHVlu+d/6MVtP7yuvv1J0eGF9lBK6PB1Xy6wyZbiNsrQmekNdLaDKTHN51Af1J3VpZaBone913oQIv7otb8I6y6q+genB6ZhfRiEpLGllk1/C+YvVnyMAAjge/XGvQUiUnOEXpp+bpUigadlcd3DqaIv7vKEnSmHZGpR886d/9kzuiw/g2MPGPMYotynGSTUVLhtR/PVxtb+O0fOMvn4ovFpGMQK0SjYdnDSS2+5HPCQ030jImbKCQg7DwmvrZpK7+pDolSJJrlWNwPWYeippBqOxYV4oFmi1wMBIK93dhII+62mynVa5LxmMrgX43hcpq7W6U/azcqsTh7mm2IjkN3/jEc7NBIx14IX9/cmWkzaEe4+VgvlbEEUXyX0vBFy1RyTEVftTRppqnvj3JEbej5Vo82pjDQVu1BldwDWpTDeLitkDnGj6UAAox1WuJVuGUjQsyIQZSaZiY8k4PnyqMsxQrzau/Dsc4qzGoVCV5EWLihKWthzIgbnJkl6e5D6g17M4WNbPOqm9WjkCgf23kwJvM0FTolyklj3/QESShjTLCWejvH4hmEvhx2YS48E3zd/O8TNSQNUv1Aomxg1dKR4Aeb3TMfvYVe4X8zta80w8eZO
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Feb 2024 15:07:18 UTC"
+record: -1

@@ -1,0 +1,34 @@
+type: edu
+files:
+  - name: src/com/harbourspace/Main.java
+    visible: true
+    encrypted_text: Y6Lvk+e6gAPdKCcGN3ROccitc4OGhnrW1T55uSdg+XRBLNR6RgiLlgeYSUZNmzIGliWvAOl0D8Fvq2bTQfEmmq6sIoByzrMAwIfpfRH1nVaIbtGAa3UArdL4FZXLhv52tiDSs+5FtWKxjQJ3EL9ZUilfQr+eYrjhjNeDmuIbeCKRzKMgvwR8gYmkzPRR5Sr9m60Jf+Sbr1XcQILpd2LgSVehXahd1wvB/FIWH5m7S6aFJ7EcqdpIrHCbiImBqO+MwmbWKSmwCNcAd/ufrJrJX4bDYtIfOEEzlnxfIrhN+6OE9dPz0axdYA6dblXQ4GE3L4zbG5p9FTFT3IXK0R/atBQqGaaI9i39FFnPSHk1TKX3u2sbEOJDEbnINoe+zmmZZFrgT+BQGIQKTdj6cdULpA==
+    learner_created: false
+  - name: src/com/harbourspace/model/Sensor.java
+    visible: true
+    placeholders:
+      - offset: 33
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 33
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: iakjI9ACKbD2ts1J5pomQoikNQwRK3qiYwm2Vjz95J3+Z6Wd3KLeLowulx+AJU/sRu4XFF+MI4NfPfnK1fW5Yv2FPKST/BKgikGVCm6V6KAeziU4uKCaQrin7nZSFIJkCmXX/t3hzuu/BEAlQUa+4N0RdYnBcZduXXNCQI7+u4uTL9hSPupG3gpwnuFwRxUvP5ei/dkcaf5ZBffJOU8v/nvnPVZ/uonCU+mKt8YQK1F5R8+BG7IKLFMYP5vc+vaJQ8mB7/qV/yLv5Q5R2nuWgFUPoNEgT9Bzu/f/tQl96jnZy+WtRQ2GYINKNvt6XnNwVDCZP6JReja/m61v4xk7am7+DcG3OlAr6P2ZfFiLEA+53b2SGTfHtrtFzkrfC/3jqvIgU1OutfzYZ1KbhKmkZrm7UOUI8Vim4WKNV04+w/E=
+    encrypted_text: Y6Lvk+e6gAPdKCcGN3ROcbLtR3aFMUC0bUhiOwmNIcGy+vgQijoHVE+fCbB/+OKb
+    learner_created: false
+  - name: test/SensorTest.java
+    visible: false
+    encrypted_text: dMGTCELpGP1ckqfwdL8ww+e/7JJ6ZC0JbEM34D/7qPjWJ/WF0nSb5n3qs0h5E6pkgf2pUHhBtescOqyBPdlEzQ2idS19TvKXOYdFymDGyLebDf0mGJvlDTawecyJ4VmWxhlZU91snWxwjYXZoEAQUcuFXQJbcKSAWcHOp4c2uy5UEV2lSiKVS+OrMKyyeVP9J+zthDRdQEZg4o+klUmWrrh/t4JBaCJ4zFne2lWDt9b6TroZ+i4reGyHFEa01yHuQ8UOv6obmyZTdpjK8yqb3/QDE7CTk80v9zehTgpVbTdrDdSj0/Uu/0hqirvo3RXt9RfOtSND8Lbus+8UxLwJAyZxzhuVf3urVo1SIiXy7pbHMUHLfHDNajuiP3YYRw0e+Ih9qAt3d/i/cwkXB+0juNX6Qh8ehaMcCp80oyTS6k/TVeXKO7N48UwRUFBOBmuj5cNuOX/GJcusnXjQqpfCAFQj4Xz/2kPsjstwUDEwFBwiSV8ZFMCLsa16Qbjza/jTyOv3iHyjXXEl8nibJfTl6aAC2dimpaPT4T+hP5aUutdlcFJ5P1jVbXdaUZFDTo7202hFNZ62Uhtc4AvkAuR8g1AyuCLMz4FfcCwl34LXHN77i3Bqe//12Rl2D8EJa+PdGXGD7Qqku94FEIU3+w0ZGFw9qxEVVvuPGtKHen0mgC4m4L/QlC5yC/SKXT5Ob811
+    learner_created: false
+  - name: src/com/harbourspace/model/Error.java
+    visible: true
+    encrypted_text: Y6Lvk+e6gAPdKCcGN3ROcbLtR3aFMUC0bUhiOwmNIcFmVHraoOfYVJ45LRl7m45LJx0OoEfkiwj2RB4ow1hknD9o3T4i7HIB93i1MBmjBlFeZDmk4H8QR0vWcGIz0OJKIw0PHff03AXeFqhTnHi/56fY8NwjOA5mahg7S+bsi+LFRVcyb6bTnKwrhwK/9r8bXxFo7l+fFshvfg/QivtPL4zfQubS/EcSsb+TcNm/YWTMGrVLoWuWvqAL3m6LuqajDoc/Q57863ZtzuWGlpqO3g==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Feb 2024 06:09:26 UTC"
+record: -1

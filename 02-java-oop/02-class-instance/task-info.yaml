@@ -1,0 +1,61 @@
+type: output
+files:
+  - name: src/com/harbourspace/Main.java
+    visible: true
+    placeholders:
+      - offset: 146
+        length: 51
+        placeholder_text: // create class instance
+        initial_state:
+          length: 24
+          offset: 146
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: 5P8851V5WsJ0a9Duonq1BGm2B8kZEpyk0ARhfyo30mU+fSv+gjL1D5QGFWqASbMu
+      - offset: 225
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 198
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: 34jDqE2yNa8u1snc3gDWEGZK9REkal5WdXNcnqHjFig=
+    encrypted_text: Y6Lvk+e6gAPdKCcGN3ROcZtASZauEDMiYmdBhCjIBGSKZx7/F1jKyj1mE5fmwXbl3+l4O15ufHyD9c7hSIQaL1YcBjiUzAexPzdeEHj8hJbwGLHkQW+/quA7bCjR7aTP5Y7jkqKv7ansUG4hVPx+0gZ4RiRQVXIwSkq5WJSq7Ay3VJ22ih4aMbCOEDuFYAvBW+bAio0qewrW5nX+JEocj1HWBmNnWhFZ2WDdYuNoiddSbQHkcMmyFbmlrOSDw3wXF1OO30/EbVtNe4Lg31RZ343y3Ebq2FOVazG3vTtTtm4=
+    learner_created: false
+  - name: src/com/harbourspace/model/MeteoStation.java
+    visible: true
+    placeholders:
+      - offset: 33
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 33
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: /5TIbfg5KTla0uEp6KQHWg==
+      - offset: 69
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 62
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: /5TIbfg5KTla0uEp6KQHWg==
+    encrypted_text: Y6Lvk+e6gAPdKCcGN3ROcbLtR3aFMUC0bUhiOwmNIcHA1r3Zc57dTXhzXQEJQevpKY3kuns3MB0+FXP331uPTo23LremT82HjfCLmv5VwGE46nURPcTL/K+YzJrq5TzIJzBo/IFxKFOkzl3m9IKhHg==
+    learner_created: false
+  - name: test/MeteoStationTest.java
+    visible: false
+    encrypted_text: dMGTCELpGP1ckqfwdL8wwxE9p2Jk+wbeBWFEHrlHycS2P8xOX6F57iGDYCmrWPew4UbpXRHFDqMrtJ8WGU1E1LiTX4duIWOIbXjX09RA1gMXRJETTt8BImmdHSZEzuSI1boagwKHX3tP7vpVGTxhi/bDtuqD4kRjkE2xzGJsmdeiTxtqQbYxGke57nkCffUm1MUpm1d3VVnt99UARNui2K7lQXXEdWUQcKUyKc5vobJiR+blBJa/q5pLNPIpUwrxqlTVGFQlGYBrR8ohVfeh1XPAdFnOvbjW87Uajew2iQQ90B/lh664y69ui8tm3tOuVOFuGTgkfIBPQtTjbC1B16DjS+e70k3msh8p4npVFt+ubNK4yQ2GibAhizw3hbybT1lrrYwhA+YJEOPeWrD3TZMf4SB7wEHKkAZd8lGW1JXnlpjNEqed0Xg19Y6O/YuEBAyAmipcfT611MC7wAakYSz3z+OHeUvbZc0334D3gheU0jWr2c5MhZAP3dx91jNCG0ZLkKjQHcRXBb5b4BcUKv0kEpy5BJtSc8eqHQAlIEbbkDvV5y9gv10Sia2F3mxyX0DI3oVg4dkdTFMfVxzufDwBihT6vy6arX+IbBZjcW04nxo8sCkc4Lu8MoBGblFGQGNvcgW60noU+FMjcLAZxw==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Feb 2024 06:06:11 UTC"
+record: -1
